@@ -13,8 +13,7 @@ I have a passion for building scalable applications with a strong focus on Fulls
 <img align="left" alt="Python" title="Python"  width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="React" title="React"  width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Nextjs" title="Nextjs" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" loading="lazy"
-  decoding="async"/>
+<img align="left" alt="Nextjs" title="Nextjs" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Nodejs" title="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
