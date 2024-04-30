@@ -11,8 +11,8 @@ I have a passion for building scalable applications with a strong focus on Block
 
 ## Languages and Tools
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-282828?style=for-the-badge&logo=rust&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-282828?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Substrate](https://img.shields.io/badge/Substrate-282828?style=for-the-badge&logo=substrate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=blue   )
