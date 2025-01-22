@@ -1,4 +1,9 @@
-### Hi there I'm Joe!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hey there!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+---
+I'm **Joe**, a Rust enthusiast deeply passionate about protocol research & development and all things open source.
+
+
+
 
 ---
 ![Rust](https://img.shields.io/badge/Rust-282828?style=for-the-badge&logo=rust&logoColor=white)
@@ -9,9 +14,7 @@
 ---
 
 
-### About Me
 
-I have a passion for Protocol development and all things open source.
 
 **~** [**_My Blog_**]()
 
